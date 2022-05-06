@@ -4,11 +4,14 @@
 ## Realización del ejercicio
 Este ejercicio está pensado para hacerlo con Visual Studio Code, pero puedes en realidad hacerlo con cualquier editor.
 
-Necesitarás tener instalado Node.js para poder ejecutarlo. Por tanto, usando la línea de órdenes, haz lo siguiente:
+Necesitarás tener instalado Node.js para poder ejecutarlo. Por tanto, [descárgalo](https://nodejs.org/en/download/) e instálalo antes de hacer nada más.
 
-1. Descarga e instala Node.js
-2. Clona este repositorio y entra dentro del directorio que ha creado (*monedas_ejercicio_tdd_jasmine_node*).
-3. Ejecuta: 
+* https://nodejs.org/en/download/
+
+A continuación usando la línea de órdenes, haz lo siguiente:
+
+1. Clona este repositorio y entra dentro del directorio que ha creado (*monedas_ejercicio_tdd_jasmine_node*).
+2. Ejecuta: 
 
 ```npm install --save-dev jasmine```
 
@@ -16,7 +19,7 @@ Necesitarás tener instalado Node.js para poder ejecutarlo. Por tanto, usando la
 
 ```, "scripts": { "test": "jasmine" }```
 
-5.  Modifica el fichero  *spec/support/jasmine.json* para que quede así:
+5.  Modifica el fichero  *spec/support/jasmine.json* para que la línea que indica el valor de ```spec_dir``` quede así:
 
 
 ```"spec_dir": "./spec"```
