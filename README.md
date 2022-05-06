@@ -15,6 +15,10 @@ A continuación usando la línea de órdenes, haz lo siguiente:
 
 ```npm install --save-dev jasmine```
 
+3. Ejecuta:
+
+```npx jasmine init```
+
 4. Modifica el fichero *package.json* incluyendo la siguiente línea:
 
 ```, "scripts": { "test": "jasmine" }```
