@@ -28,7 +28,7 @@ A continuación usando la línea de órdenes, haz lo siguiente:
 
 5. Abre Visual Code Studio y abre dentro de él este directorio de trabajo con el proyecto.
 
-6. Muebe el fichero *monedas-spec.js.template* en el directorio *spec* y renómbralo para que se llame, finalmente: *monedas-spec.js*
+6. Mueve el fichero *monedas-spec.js.template* en el directorio *spec* y renómbralo para que se llame, finalmente: *monedas-spec.js*
 7. Comienza a trabajar con los ejercicios que se indican en *monedas-spec.js*
 
 Los ficheros de configuración, deberían haber quedado más o menos así:
