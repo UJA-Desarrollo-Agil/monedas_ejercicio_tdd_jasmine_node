@@ -1,0 +1,27 @@
+{
+  "name": "monedas_ejercicio_tdd_jasmine_node",
+  "version": "1.0.0",
+  "description": "Ejercicio TDD con Node.js y Jasmine",
+  "main": "monedas.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clases-de-Victor-Rivas/monedas_ejercicio_tdd_jasmine_node.git"
+  },
+  "keywords": [
+    "TDD",
+    "Jasmine",
+    "Node.js"
+  ],
+  "author": "Víctor Rivas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clases-de-Victor-Rivas/monedas_ejercicio_tdd_jasmine_node/issues"
+  },
+  "homepage": "https://github.com/Clases-de-Victor-Rivas/monedas_ejercicio_tdd_jasmine_node#readme",
+  "devDependencies": {
+    "jasmine": "^4.1.0"
+  }
+}
